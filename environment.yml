@@ -1,0 +1,13 @@
+name: met
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python>=3.13
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - python-dotenv
+  - requests
